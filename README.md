@@ -140,6 +140,4 @@ The project already generates the required output images in `outputs/plots/`.
 
 This project is organized so each major step is isolated in its own file, making the pipeline easier to understand, grade, and maintain.
 
-## Notes
 
-If you want, replace the Intern ID field with your final submitted value before sending the project.
