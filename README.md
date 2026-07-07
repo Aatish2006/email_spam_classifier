@@ -6,7 +6,7 @@
 | --- | --- |
 | Intern ID | CITS4384_ |
 | Full Name | Aatish Ayyapath |
-| No. of Weeks | 5 |
+| No. of days | 5 |
 | Project Name | Email Spam Classification Using Random Forest |
 | Project Scope | Build a complete email spam classifier with data cleaning, exploration, feature engineering, model training, evaluation, and testing. |
 
