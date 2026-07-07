@@ -6,13 +6,17 @@
 | --- | --- |
 | Intern ID | CITS4384_ |
 | Full Name | Aatish Ayyapath |
-| No. of days | 5 |
+| No. of Weeks | 5 |
 | Project Name | Email Spam Classification Using Random Forest |
 | Project Scope | Build a complete email spam classifier with data cleaning, exploration, feature engineering, model training, evaluation, and testing. |
 
 ## Project Overview
 
 This project classifies emails or SMS messages into two classes: `ham` and `spam`. The workflow is separated file by file so each stage stays clear and easy to review.
+
+## GitHub Repository
+
+https://github.com/Aatish2006/email_spam_classifier.git
 
 ## Folder Structure
 
@@ -100,11 +104,11 @@ python src/test_model.py
 ## Output Files
 
 The scripts generate these submission-friendly outputs:
-- `outputs/plots/class_distribution.png`
-- `outputs/plots/message_length_distribution.png`
-- `outputs/plots/confusion_matrix.png`
-- `outputs/sample_predictions.csv`
-- `artifacts/reports/evaluation_report.txt`
+- [outputs/plots/class_distribution.png](outputs/plots/class_distribution.png)
+- [outputs/plots/message_length_distribution.png](outputs/plots/message_length_distribution.png)
+- [outputs/plots/confusion_matrix.png](outputs/plots/confusion_matrix.png)
+- [outputs/sample_predictions.csv](outputs/sample_predictions.csv)
+- [artifacts/reports/evaluation_report.txt](artifacts/reports/evaluation_report.txt)
 
 ## Source Code
 
@@ -116,11 +120,21 @@ This README contains the project details, workflow, setup instructions, and outp
 
 ## Screenshots
 
-Add screenshots here after running the pipeline and capturing the output views.
+The generated output images below can be used as submission screenshots:
+
+![Class distribution](outputs/plots/class_distribution.png)
+
+![Message length distribution](outputs/plots/message_length_distribution.png)
+
+![Confusion matrix](outputs/plots/confusion_matrix.png)
 
 ## Output Images
 
-Add the generated plots from `outputs/plots/` here when preparing the final submission.
+The project already generates the required output images in `outputs/plots/`.
+
+- [Class distribution](outputs/plots/class_distribution.png)
+- [Message length distribution](outputs/plots/message_length_distribution.png)
+- [Confusion matrix](outputs/plots/confusion_matrix.png)
 
 ## Documentation
 
@@ -128,4 +142,4 @@ This project is organized so each major step is isolated in its own file, making
 
 ## Notes
 
-If you want, replace the placeholder identity fields above before submitting the project to GitHub.
+If you want, replace the Intern ID field with your final submitted value before sending the project.
