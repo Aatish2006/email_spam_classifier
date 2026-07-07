@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+artifacts/
+outputs/
+*.joblib
+*.png
+*.csv
+!.gitignore
+!Data/spam.csv
